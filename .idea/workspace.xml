@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4864e66a-23ed-49d1-88b9-6cfdaa829f59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai7-AbsTractClass-InterFace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/Interface/Edible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/model/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/model/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/model/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/model/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Animal_Interface/model/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Interface_Comparator/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Interface_Comparator/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Interface_Comparator/model/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Interface_Comparble/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Interface_Comparble/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_Interface_Comparble/model/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_colorble/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_colorble/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_colorble/model/ColorAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_colorble/model/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_colorble/model/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_colorble/model/Square.java" afterDir="false" />
-    </list>
+    <list default="true" id="4864e66a-23ed-49d1-88b9-6cfdaa829f59" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670734505253</updated>
       <workItem from="1670734506575" duration="7873000" />
-      <workItem from="1670806235605" duration="29663000" />
+      <workItem from="1670806235605" duration="29758000" />
     </task>
     <servers />
   </component>
